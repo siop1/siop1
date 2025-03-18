@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a l
 ## 🤝 I'm open to collaboration on:
 - **Home Automation** projects.
 - **Voice Assistant tools** and integrations.
+- **Full Stack Projects**
 
 ## 💬 Fun Facts About Me
 - Problem-solving is my passion! 🔍
